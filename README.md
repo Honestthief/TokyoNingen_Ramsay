@@ -1,6 +1,6 @@
 ## TokyoNingen_Ramsay
 SF homework
 ## Проекты:
-* [Проект 0. Игра угадай число](/home/sadko/github/TokyoNingen_Ramsay/projeck_0)
+* [Проект 0. Игра угадай число](https://github.com/Honestthief/TokyoNingen_Ramsay/tree/main/projeck_0)
 *
 *
